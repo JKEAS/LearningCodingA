@@ -2,4 +2,4 @@
 
 Hi this is JKEAS
 
-THis is my jounry in GitHub
+This is my journey in GitHub
